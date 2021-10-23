@@ -12,8 +12,8 @@
 
 <div>
   <a href="https://github.com/vitorpantaleao">
-  <img width="480em" src="https://github-readme-stats.vercel.app/api?username=vitorpantaleao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpantaleao&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=vitorpantaleao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpantaleao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ## Tecnologias que uso no meu dia
