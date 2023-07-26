@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Vitor Pantaleão 👋
 
-- 🔭 Atualmente trabalho como Desenvolvedor Front End Pleno
+- 🔭 Atualmente trabalho como Desenvolvedor Front End
 - 🌱 Estudando cada dia mais JavaScript
 
  <div> 
